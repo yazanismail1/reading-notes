@@ -7,5 +7,6 @@
 ## **Code 301 - Intermediate Software Development**
 
 - [Class 01: Introduction to React and Components](./Class01.md)
+- [Class 02: State and Props](./Class02.md)
 
 ## **Code 401 - Advanced Software Development**

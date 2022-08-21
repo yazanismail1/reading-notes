@@ -57,7 +57,7 @@ Data with props are being passed in a uni-directional flow (one way from parent 
 ---
 ---
 
-## Things I want to know more about.
+## Things I want to know more about
 
 - Why the use of React over Angular or Vue?
 
