@@ -22,11 +22,11 @@ By setting a state for it in the constructor to make the react state the source 
 to shorten our if statements into one line of code with the conditional operator.
 
 **Rewrite the following statement using a ternary statement:**
->`if(x===y){`
->   `console.log(true);`
->`} else {`
->   `console.log(false);`
->`}`
+>`if(x===y){`  
+>   `console.log(true);`  
+>`} else {`  
+>   `console.log(false);`  
+>`}`  
 
 `(x === y) ? console.log(true) : console.log(false)`
 
