@@ -13,7 +13,7 @@ Is a component that holds its own state and been mutable its state using react, 
 
 From my understanding, we should update the state. to keep it sync with the input’s value, meaning that changing the input will update the state, and updating the state will change the input.
 
-**How do we target what the user is entering if we have an event handler on an input field?** 
+**How do we target what the user is entering if we have an event handler on an input field?**
 
 By setting a state for it in the constructor to make the react state the source of truth.
 

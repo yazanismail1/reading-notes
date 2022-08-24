@@ -10,5 +10,6 @@
 - [Class 02: State and Props](./Class02.md)
 - [Class 03: Passing Functions as Props](./Class03.md)
 - [Class 04: React and Forms](./Class04.md)
+- [Class 05: Putting it all together](./Class05.md)
 
 ## **Code 401 - Advanced Software Development**
