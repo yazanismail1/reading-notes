@@ -53,5 +53,5 @@ It returns a new function if the arg passed to the function in smaller than the 
 
 ## References
 
-1. <https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK> 
+1. <https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK>
 2. <https://reactjs.org/docs/thinking-in-react.html>
