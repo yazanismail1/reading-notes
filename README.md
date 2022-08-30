@@ -14,5 +14,6 @@
 - [Class 06: NODE.JS](./Class06.md)
 - [Class 07: REST](./Class07.md)
 - [Class 08: APIs](./Class08.md)
+- [Class 09: Functional Programming](./Class09.md)
 
 ## **Code 401 - Advanced Software Development**

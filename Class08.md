@@ -13,7 +13,7 @@ Representational State Transfer (REST) as an architectural approach to designing
 
 **What is an identifier of a resource? Give an example.**
 
-is a URI that uniquely identifies that resource.https://adventure-works.com/orders/1
+is a URI that uniquely identifies that resource.<https://adventure-works.com/orders/1>
 
 **What are the most common HTTP verbs?**
 
@@ -25,7 +25,7 @@ resources.
 
 **Give an example of a good URI.**
 
-https://adventure-works.com/orders.
+<https://adventure-works.com/orders>
 
 **What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?**
 
