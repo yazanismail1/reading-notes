@@ -1,6 +1,6 @@
 # Functional Programming
 
-> When writing a complex code it is better to split it into modules, it is easier to debug and more readable and this goes for functions also, it is better to have many functions that each do one thing. 
+> When writing a complex code it is better to split it into modules, it is easier to debug and more readable and this goes for functions also, it is better to have many functions that each do one thing.
 
 ---
 ---
