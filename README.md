@@ -16,5 +16,6 @@
 - [Class 08: APIs](./Class08.md)
 - [Class 09: Functional Programming](./Class09.md)
 - [Class 10: In memory storage](./Class10.md)
+- [Class 11: In memory storage](./Class11.md)
 
 ## **Code 401 - Advanced Software Development**
