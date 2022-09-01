@@ -40,7 +40,7 @@ A place to store the E-commerce ads.
 
 **Which type of database is best for hierarchical data storage?**
 
-SQL
+SQL is a better for hierarchical storage.
 
 **Which type of database is best for scalability?**
 
