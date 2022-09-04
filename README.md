@@ -17,5 +17,6 @@
 - [Class 09: Functional Programming](./Class09.md)
 - [Class 10: In memory storage](./Class10.md)
 - [Class 11: In memory storage](./Class11.md)
+- [Class 12: CRUD](./Class12.md)
 
 ## **Code 401 - Advanced Software Development**
