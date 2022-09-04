@@ -1,6 +1,6 @@
-# Mongo and Mongoose
+# CRUD
 
-> When it comes to data, we need to store them inside a database , a place which contains data, depending on the type of data and the application we choose the type of database.
+> One of the most important aspects in databases are Creating data, Reading data, Updating data and Deleting data which is CRUD.
 
 ---
 ---
