@@ -18,5 +18,6 @@
 - [Class 10: In memory storage](./Class10.md)
 - [Class 11: In memory storage](./Class11.md)
 - [Class 12: CRUD](./Class12.md)
+- [Class 13: More CRUD](./Class13.md)
 
 ## **Code 401 - Advanced Software Development**
