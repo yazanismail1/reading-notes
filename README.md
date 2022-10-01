@@ -22,3 +22,4 @@
 - [Class 15: Authentication](./Class15.md)
 
 ## **Code 401 - Advanced Software Development**
+- [Class 01: Intro to Big O Notation & Names and Values in Python](./code-401-python/class-01/README.md)
