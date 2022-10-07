@@ -25,3 +25,4 @@
 - [Class 01: Intro to Big O Notation & Names and Values in Python](./code-401-python/class-01/README.md)
 - [Class 02: Testing and Modules](./code-401-python/class-02/README.md)
 - [Class 03: A Beginner's guide to Big O Notation](./code-401-python/class-03/README.md)
+- [Class 04: FileIO & Exceptions](./code-401-python/class-04/README.md)
