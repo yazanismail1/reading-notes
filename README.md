@@ -16,7 +16,7 @@
 - [Class 08: APIs](./Class08.md)
 - [Class 09: Functional Programming](./Class09.md)
 - [Class 10: In memory storage](./Class10.md)
-- [Class 11: In memory storage](./Class11.md)
+- [Class 11: Mongo and Mongoose](./Class11.md)
 - [Class 12: CRUD](./Class12.md)
 - [Class 13: More CRUD](./Class13.md)
 - [Class 15: Authentication](./Class15.md)
@@ -27,3 +27,4 @@
 - [Class 03: A Beginner's guide to Big O Notation](./code-401-python/class-03/README.md)
 - [Class 04: FileIO & Exceptions](./code-401-python/class-04/README.md)
 - [Class 05: Intro to OOP](./code-401-python/class-05/README.md)
+- [Class 06: OOP Part 02](./code-401-python/class-06/README.md)
