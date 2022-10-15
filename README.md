@@ -28,3 +28,4 @@
 - [Class 04: FileIO & Exceptions](./code-401-python/class-04/README.md)
 - [Class 05: Intro to OOP](./code-401-python/class-05/README.md)
 - [Class 06: OOP Part 02](./code-401-python/class-06/README.md)
+- [Class 07: Data Analysis](./code-401-python/class-07/README.md)
