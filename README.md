@@ -31,3 +31,4 @@
 - [Class 07: Data Analysis](./code-401-python/class-07/README.md)
 - [Class 08: Data Analysis with Pandas](./code-401-python/class-08/README.md)
 - [Class 09: Linked Lists](./code-401-python/class-09/README.md)
+- [Class 10: Linear Regressions](./code-401-python/class-10/README.md)
