@@ -36,3 +36,4 @@
 - [Class 12: Stack and Queue](./code-401-python/class-12/README.md)
 - [Class 13: Serverless Functions](./code-401-python/class-13/README.md)
 - [Class 14: Web Scraping](./code-401-python/class-14/README.md)
+- [Class 15: Tree](./code-401-python/class-15/README.md)
