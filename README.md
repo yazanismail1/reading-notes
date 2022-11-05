@@ -37,3 +37,4 @@
 - [Class 13: Serverless Functions](./code-401-python/class-13/README.md)
 - [Class 14: Web Scraping](./code-401-python/class-14/README.md)
 - [Class 15: Tree](./code-401-python/class-15/README.md)
+- [Class 16: Cryptography](./code-401-python/class-16/README.md)
