@@ -38,3 +38,4 @@
 - [Class 14: Web Scraping](./code-401-python/class-14/README.md)
 - [Class 15: Tree](./code-401-python/class-15/README.md)
 - [Class 16: Cryptography](./code-401-python/class-16/README.md)
+- [Class 17: Automation](./code-401-python/class-17/README.md)
