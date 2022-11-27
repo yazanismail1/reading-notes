@@ -40,3 +40,4 @@
 - [Class 16: Cryptography](./code-401-python/class-16/README.md)
 - [Class 17: Automation](./code-401-python/class-17/README.md)
 - [Class 19: Intro to Django](./code-401-python/class-19/README.md)
+- [Class 20: Django Models](./code-401-python/class-20/README.md)
