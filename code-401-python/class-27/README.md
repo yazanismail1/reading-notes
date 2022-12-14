@@ -20,7 +20,7 @@ An Undirected Graph is a graph where each edge is undirected or bi-directional. 
 
 For example, in the graph below, Node C is connected to Node A, Node E and Node B. There are no “directions” given to point to specific vertices. The connection is bi-directional.
 
-![Undirected Graphs](/code-401-python/class-27/Capture.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/UndirectedGraph.PNG)
 
 The undirected graph we are looking at has 6 vertices and 7 undirected edges.
 
@@ -30,7 +30,7 @@ A Directed Graph also called a Digraph is a graph where every edge is directed.
 
 Unlike an undirected graph, a Digraph has direction. Each node is directed at another node with a specific requirement of what node should be referenced next.
 
-![Undirected Graphs](/code-401-python/class-27/Capture1.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/DirectedGraph.PNG)
 
 The directed graph above has six vertices and eight directed edges
 
@@ -40,7 +40,7 @@ The directed graph above has six vertices and eight directed edges
 
 A complete graph is when all nodes are connected to all other nodes.
 
-![Undirected Graphs](/code-401-python/class-27/Capture2.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/CompleteGraph.PNG)
 
 Each vertex is actually connected to every other node on the graph. That is what makes it a complete graph.
 
@@ -48,13 +48,13 @@ Each vertex is actually connected to every other node on the graph. That is what
 
 A connected graph is graph that has all of vertices/nodes have at least one edge.
 
-![Undirected Graphs](/code-401-python/class-27/Capture3.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/ConnectedGraph.PNG)
 
 **Disconnected**
 
 A disconnected graph is a graph where some vertices may not have edges.
 
-![Undirected Graphs](/code-401-python/class-27/Capture4.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/DisconnectedGraph.PNG)
 
 ## Acyclic vs Cyclic
 
@@ -66,7 +66,7 @@ An acyclic graph is a directed graph without cycles.
 
 A cycle is when a node can be traversed through and potentially end up back at itself.
 
-![Undirected Graphs](/code-401-python/class-27/Capture5.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/threeAcyclic.png)
 
 **Cyclic Graphs**
 
@@ -74,7 +74,7 @@ A Cyclic graph is a graph that has cycles.
 
 A cycle is defined as a path of a positive length that starts and ends at the same vertex.
 
-![Undirected Graphs](/code-401-python/class-27/Capture6.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/cyclic.PNG)
 
 ## Graph Representation
 
@@ -86,7 +86,7 @@ We represent graphs through:
 
 We will represent the following graph as both an Adjacency Matrix and an Adjacency List:
 
-![Undirected Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/UndirectedGraph.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/UndirectedGraph.PNG)
 
 **Adjacency Matrix**
 
@@ -94,7 +94,7 @@ An Adjacency matrix is represented through a 2-dimensional array. If there are n
 
 Each Row and column represents each vertex of the data structure. The elements of both the column and the row must add up to 1 if there is an edge that connects the two, or zero if there isn’t a connection.
 
-![Undirected Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjMatrix.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjMatrix.PNG)
 
 a **sparse** graph is when there are very few connections. a **dense** graph is when there are many connections
 
@@ -108,21 +108,21 @@ An adjacency list is a collection of linked lists or array that lists all of the
 
 Adjacency lists make it easy to view if one vertices connects to another.
 
-![Undirected Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjList.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjList.PNG)
 
 **Weighted Graphs**
 
 A weighted graph is a graph with numbers assigned to its edges. These numbers are called weights.
 
-![Undirected Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightGraph.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightGraph.PNG)
 
 When representing a weighted graph in a matrix, you set the element in the 2D array to represent the actual weight between the two paths. If there is not a connection between the two vertices, you can put a 0, although it is known for some people to put the infinity sign instead.
 
-![Undirected Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightMatrix.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightMatrix.PNG)
 
 Within adjacency lists, you must include both the weight and the name of the adjacent vertex.
 
-![Undirected Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightList.PNG)
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightList.PNG)
 
 ## Traversals
 
