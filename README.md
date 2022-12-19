@@ -48,3 +48,4 @@
 - [Class 26: Permissions & Postgresql](./code-401-python/class-26/README.md)
 - [Class 27: Graphs](./code-401-python/class-27/README.md)
 - [Class 28: Authentication & Production Server](./code-401-python/class-28/README.md)
+- [Class 29: API Deployment](./code-401-python/class-29/README.md)
