@@ -1,5 +1,4 @@
-# Authentication
-
+# Fetching Data
 ## Beginner’s Guide to SWR: Data Fetching in React
 
 SWR stands for stale-while-revalidate, a HTTP cache invalidation strategy popularized by HTTP RFC 5861. It basically means that it performs data fetching in 3 steps:
